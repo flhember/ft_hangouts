@@ -1,0 +1,30 @@
+<resources>
+    <!-- Strings used for main page  -->
+    <string name="app_name">ft_hangouts</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="changeTheme">Changer de couleur</string>
+
+    <!-- Strings used for new contact page  -->
+    <string name="new_page">Créer un contact</string>
+    <string name="save">ENREGISTRER</string>
+    <string name="first">Prénom</string>
+    <string name="name">Nom</string>
+    <string name="phone">Téléphone</string>
+    <string name="mail">E-mail</string>
+    <string name="postal">Adresse</string>
+
+    <!-- Strings used for erreur text  -->
+    <string name="firstErreur">Entrez un prénom.</string>
+    <string name="phoneErreur">Entrez un numéro de téléphone.</string>
+    <string name="mailErreur">Entrez un e-mail.</string>
+    <string name="postalErreur">Entrez une adresse.</string>
+    <string name="nameErreur">Entrez un nom.</string>
+
+    <!-- Strings used for resume Contact  -->
+    <string name="editContact">Modifier le contact.</string>
+    <string name="delete">Supprimer</string>
+
+    <!-- Strings used for sms screen  -->
+    <string name="smsSend">Envoyer un message.</string>
+
+</resources>
